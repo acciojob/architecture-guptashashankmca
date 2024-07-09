@@ -1,1 +1,17 @@
-/*  your css code here. If applicable */
+.imageContainer{
+	width:1100px;
+	border:1px solid blue;
+	text-align:center;
+	padding:5px;
+	margin:5px;
+	border-radius:5px;
+}
+#th1{
+	width:200px
+}
+#th2{
+	width:600px;
+}
+th{
+	color:#3BD6C8
+}
